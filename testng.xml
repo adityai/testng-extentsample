@@ -1,0 +1,7 @@
+<suite name="Test-class Suite" parallel="classes" thread-count="2" >
+  <test name="Test-class test" >
+    <classes>
+      <class name="com.iaditya.testng.extentsample.TestClassOne" />
+    </classes>
+  </test>
+</suite>
